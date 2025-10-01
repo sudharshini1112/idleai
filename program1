@@ -1,0 +1,4 @@
+if set(list2).issubset(set(list1)):
+    print('list2 is a subset of list1')
+else:
+    print('list2 is not a subset of list1')
